@@ -1,6 +1,6 @@
 # Water Drinking Notification System
 
-A application that sends out basic Windows notifications to remind us to drink water every few hours so we can keep our bodies hydrated while working.
+An application that sends out Windows notification in laptop or PC, acting as a personal health assistant, to remind the user to drink water every few hours so he or she can keep their bodies hydrated while working.
 
 ## Built with
 
